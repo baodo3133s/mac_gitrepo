@@ -8,5 +8,9 @@ print(average(a=30)) ##new edit changes default value to to 30sssss
 
 
 
+#updated just now
+
+
+
 
 
