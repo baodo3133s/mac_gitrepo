@@ -26,3 +26,6 @@ if __name__ == '__main__':
     assert soln.trap([1]) == 0
     assert soln.trap([1,2]) == 0
     assert soln.trap([0,2,1,2,0]) == 0
+               
+               
+####
